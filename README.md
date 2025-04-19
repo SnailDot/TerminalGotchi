@@ -1,18 +1,6 @@
 # TerminalGotchi
 A pyhton terminal based tamagotchi
 
-██████
-
-  ██      ██
-  
-██    ██    ██
-
-██    ██    ██
-
-  ██      ██
-  
-    ██████
-
 This is a small python terminal based program that acts a virtual pet that you can leave running in the background. You can feed, play, clean, and put your pet to sleep by clicking a number between 1 through 7, and the program will also track how long the pet has been alive alongside the exact time it was made.
 
 *Made for python 3.13*
@@ -47,6 +35,10 @@ This is a small python terminal based program that acts a virtual pet that you c
 
 ## How it works:
 - If Either the Hunger, Clean, or Happy stat hits 0, the pet dies
+
+- if the pet dies, it will delete the save file and close the game.
+
+- Trying to load a save file with an dead pet will make the game delete that save file
 
 - The Hunger, Clean, Happy, And Energy stat are always going down when its awake
 
