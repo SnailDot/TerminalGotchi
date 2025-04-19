@@ -2,10 +2,15 @@
 A pyhton terminal based tamagotchi
 
 ██████
+
   ██      ██
+  
 ██    ██    ██
+
 ██    ██    ██
+
   ██      ██
+  
     ██████
 
 This is a small python terminal based program that acts a virtual pet that you can leave running in the background. You can feed, play, clean, and put your pet to sleep by clicking a number between 1 through 7, and the program will also track how long the pet has been alive alongside the exact time it was made.
