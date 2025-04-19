@@ -7,12 +7,19 @@ This is a small python terminal based program that acts a virtual pet that you c
 
 ## Commands / Controls:
 - Pressing any of these buttons will automatically do the command its attached to. There is also an in-game menu that displays these controls as well
+  
 1: Feed
+
 2: Play
+
 3: Sleep
+
 4: Clean
+
 5: Save
+
 6: Exit
+
 7: Show Pet's creation date
 
 ## STAGES:
